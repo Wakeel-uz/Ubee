@@ -1,7 +1,7 @@
 ﻿using Ubee.Domain.Enums;
 
-namespace Ubee.Service.DTOs;
-public class TransactionDto
+namespace Ubee.Service.DTOs.Transactions;
+public class TransactionForResultDto
 {
     public decimal Amount { get; set; }
     public string Note { get; set; }

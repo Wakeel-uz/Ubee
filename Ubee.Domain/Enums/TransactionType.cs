@@ -1,7 +1,7 @@
 ﻿namespace Ubee.Domain.Enums;
 
-public enum TransactionType
+public enum TransactionType : byte
 {
-    Income = 1,
-    Outcome
+    Income = 10,
+    Outcome = 20
 }

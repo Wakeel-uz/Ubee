@@ -1,8 +1,8 @@
 ﻿using Ubee.Domain.Entities;
 
-namespace Ubee.Service.DTOs;
+namespace Ubee.Service.DTOs.Users;
 
-public class UserDto
+public class UserForResultDto
 {
     public string Firstname { get; set; }
     public string Lastname { get; set; }
