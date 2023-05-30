@@ -1,5 +1,4 @@
 ﻿using Ubee.Domain.Commons;
-using Ubee.Domain.Enums;
 
 namespace Ubee.Domain.Entities;
 
